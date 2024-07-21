@@ -1,0 +1,34 @@
+trustworthy:a photo of someone who is devious
+attractive:a photo of someone who is ugly
+dominant:a photo of someone who is subordinate
+smart:a photo of someone who is dumb
+age:a photo of someone who is young
+gender:a photo of someone who is female
+weight:a photo of someone who is skinny
+typical:a photo of someone who is unusual
+happy:a photo of someone who is sad
+familiar:a photo of someone who is strange
+outgoing:a photo of someone who is shy
+memorable:a photo of someone who is forgettable
+well-groomed:a photo of someone who is unkempt
+long-haired:a photo of someone
+smug:a photo of someone who is humble
+dorky:a photo of someone
+skin-color:a photo of someone who has light skin color
+hair-color:a photo of someone who has light hair color
+alert:a photo of someone
+cute:a photo of someone
+privileged:a photo of someone who is disadvantaged
+liberal:a photo of someone who is conservative
+asian:a photo of someone
+middle-eastern:a photo of someone
+hispanic:a photo of someone
+islander:a photo of someone
+native:a photo of someone
+black:a photo of someone
+white:a photo of someone
+looks-like-you:a photo of someone who looks like other people
+gay:a photo of someone who is straight
+electable:a photo of someone
+godly:a photo of someone who is sinful
+outdoors:a photo of someone who is inside

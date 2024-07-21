@@ -1,0 +1,12 @@
+matplotlib
+numpy
+open_clip_torch
+pandas
+pillow
+scipy
+seaborn
+statsmodels
+timm
+torch
+tqdm
+transformers
