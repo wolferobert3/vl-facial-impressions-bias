@@ -1,5 +1,5 @@
 # Facial Impression Bias in Language-Vision AI Repository
-This is the code repository for the AIES'24 paper ***Dataset Scale and Societal Consistency Mediate Facial Impression Bias in Vision-Language AI***, available at [placeholder](placeholder).
+This is the code repository for the AIES'24 paper ***Dataset Scale and Societal Consistency Mediate Facial Impression Bias in Vision-Language AI***, available at [https://arxiv.org/pdf/2408.01959](https://arxiv.org/pdf/2408.01959).
 
 ### 1. Structure
 
@@ -15,9 +15,16 @@ The requirements file includes the libraries needed to run the analyses. We reco
 
 ### 3. Paper & Citation
 
-Please cite the following version of our paper, from the AIES proceedings:
+Below follows the information to cite our paper:
 
-> TBD
+```bibtex
+@article{wolfe2024dataset,
+  title={Dataset Scale and Societal Consistency Mediate Facial Impression Bias in Vision-Language AI},
+  author={Wolfe, Robert and Dangol, Aayushi and Hiniker, Alexis and Howe, Bill},
+  journal={arXiv preprint arXiv:2408.01959},
+  year={2024}
+}
+```
 
 ### 4. Other Resources
 
