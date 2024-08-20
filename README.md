@@ -37,3 +37,7 @@ This work draws on prior research in vision-language AI, facial impression bias,
 - [https://github.com/FacePerceiver/FaRL](**https://github.com/FacePerceiver/FaRL**): The repository of FaRL/FaceCLIP models post-trained for facial analysis tasks.
 - [https://github.com/SepehrDehdashtian/the-dark-side-of-dataset-scaling](**https://github.com/SepehrDehdashtian/the-dark-side-of-dataset-scaling**): Essential work from ACM FAccT'24 on biases emerging from increasing dataset scale.
 - [https://dl.acm.org/doi/10.1145/3442188.3445922](**https://dl.acm.org/doi/10.1145/3442188.3445922**): The ahead-of-its-time Stochastic Parrots paper, which asked important questions about scale in AI that continue to inform analyses of bias in these models today.
+
+### Note on Paper Versions
+
+Note that the first version of this repo (corresponding to results in the first version of the paper on arXiv) did not correctly match the pretrained CLIP models for the paired-samples t-test. The most recent version of the repo fixes this and corresponds to the updated version of the paper on arXiv, as well as the AIES camera-ready.
